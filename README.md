@@ -3,7 +3,7 @@
 ### I'm an graduate in Business Administration & Information Systems at the Tippie College of Business, The University of Iowa
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/drewabradley) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://drewabradley.com/)
-
+### I am from Dubuque, Iowa and some of my hobbies include sports, traveling, and spending time in nature. My favorite thing to do is spending time with my 2 year old Golden Retriever named Winston.
 ---  
 
 ### Current skills
